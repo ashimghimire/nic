@@ -1,0 +1,12 @@
+.sideNav {
+  position:sticky;
+  height:80vh;
+  margin-top:20px;
+  border-right:1px solid rgb(230, 233, 231);
+}
+
+.feedback {
+ color:rgb(143, 5, 5);
+ font-size:11px;
+ font-style: italic; 
+}
